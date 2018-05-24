@@ -36,8 +36,7 @@
     /* box-shadow: 0 1px 0 rgba(0,0,0,.2), 0 2px 0 rgba(0,0,0,.06); */
 }
 .theme-dark .layer-3QrUeG, .theme-dark .layers-3iHuyZ {
-    background-image: url(https://i.imgur.com/VspOF3m.png);
-    background-size: cover;
+   background-color: rgba(0, 0, 0, 0.8);
 }
 .container-PNkimc {
     background-color: rgba(0, 0, 0, 0);
